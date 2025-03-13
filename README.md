@@ -16,9 +16,9 @@ Este programa genera contraseñas seguras de manera aleatoria con letras, númer
    python password_generator.py
 ------------------------------------
 ## Ejemplo:
-Ingrese la longitud de la contraseña (mínimo 6): 12
-Contraseña generada: Kd!3f$Zp9s@X
-¿Desea generar otra contraseña? (s/n): s
+- Ingrese la longitud de la contraseña (mínimo 6): 12
+- Contraseña generada: Kd!3f$Zp9s@X
+- ¿Desea generar otra contraseña? (s/n): s
 
 ------------------------------------
 
